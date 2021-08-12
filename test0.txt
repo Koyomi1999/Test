@@ -1,3 +1,7 @@
 1
 add branch
-add branch Feature1
+<<<<<<< HEAD
+add branch feature1
+=======
+add branch feature1
+>>>>>>> feature1
